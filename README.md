@@ -1,2 +1,1 @@
-# the_pantry
-Change from clone
+GitHub Checkpoint Assignment
